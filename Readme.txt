@@ -6,8 +6,8 @@ pastikan ketika upload tugas dilakukan secara bertahap.karna mempengaruhi nilai
 baca ketentuan umum pengumpulan tugas [disini](https://www.github.com/PrakPL-SI-H/KetentuanUmum.git);
 
 
-Nama	: RAHMAT YANNI ADRIAN
+Nama	: <<isi disini>>
 
-NIM 	: 155150401111138
+NIM 	: <<isi disini>>
 
-KELAS   : SI-H
+KELAS   : <<isi disini>>
